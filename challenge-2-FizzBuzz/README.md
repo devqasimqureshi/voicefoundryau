@@ -1,6 +1,8 @@
 # JS Challenge 2 - FizzBuzz
 
-Please write a function that takes in a start number and finish number and produces a CSV string of results.
+Please make a js file called fizzBuzz.js and export a function that takes in a start number and finish number and produces a CSV string of results.
+
+Note: This is just a JS challenge, no need for any react
 
 - For every number that is divisible by 3 and 5, console log "FizzBuzz".
 - For every number that is divisible by only 3 and not 5, console log "Fizz".

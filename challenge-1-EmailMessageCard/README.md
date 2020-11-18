@@ -10,6 +10,12 @@ Here's what the component will look like on a grey background, expanded (upper) 
 
 (Accurate image width should be 650px)
 
+If any cc recipients are provided, please display (when expanded) under the `To` recipients
+
+![CC recipients](/challenge-1-EmailMessageCard/readme-images/EmailMessageCard-cc.png)
+
+
+
 When expanded, click on the ... button to show further options
 
 ![Further options buttons](/challenge-1-EmailMessageCard/readme-images/EmailMessageCard-buttons.png)
@@ -89,6 +95,7 @@ The component will be used like so...
 ### Tech notes
 
 - Feel free to install the antd Use existing antd components and add your own styling on top
+- Please use functional components only as that's our standard at VoiceFoundry
 - Try to make it look like the design images above as much as possible. If an antd component forces you to deviate from the design, it might be quicker to just style it yourself without the antd component
 - When card is collapsed, show `contentPreview`, when expanded, render the `content` html
 - `defaultExpanded` determines if the card is expanded/collapsed initially. Then the user can click to expand/collapse
