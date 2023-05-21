@@ -18,14 +18,16 @@ For example `fizzBuzz(12, 20)` should return a string:
     - Functional programming
 
 
-### How to run tests (if tests provided)
+### How to run
 
 TODO put instructons here ... e.g.
 
+To run app
 ```sh
-$ yarn
+$ npm start
 ```
 
+To do testing
 ```sh
-$ yarn test
+$ npm test
 ```
